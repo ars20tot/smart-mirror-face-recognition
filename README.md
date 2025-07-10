@@ -28,7 +28,7 @@ This module performs face embedding extraction for identity matching. It is desi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ars20tot/face_recognition_jetson.git
+git clone https://github.com/ars20tot/smart-mirror-face-recognition.git face_recognition_jetson
 cd face_recognition_jetson
 ```
 
