@@ -1,0 +1,9 @@
+
+net_class: edgeface_xs
+embedding_size: 512
+dropout: 0.4
+input_size: 112
+use_se: true
+use_bn: true
+use_prelu: true
+use_fc: false
